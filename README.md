@@ -1,1 +1,1 @@
-"# pacman-python" 
+"#Super Kasir" 
